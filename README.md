@@ -2,20 +2,23 @@
 
 ## ⚡ GitHub Stats
 
-<!--<img align="left" src="https://github-readme-stats.vercel.app/api?username=ppatil002&show_icons=true&count_private=true&theme=gruvbox&hide=issues" />--> 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ppatil002&layout=compact&count_private=true&theme=gruvbox&langs_count=7" />
-<br/>
+  <h3>💻 GitHub Profile Stats</h3>
 
-<br/>
+  <a href="#"><img alt="Pratik's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api/?username=ppatil002&show_icons=true&include_all_commits=true&count_private=true&theme=gruvbox&hide_border=false&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" height="192px"/></a>
+  <a href="#"><img alt="Pratik's Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=ppatil002&langs_count=8&layout=compact&theme=gruvbox&hide_border=false&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866,Roff" height="192px"/></a>
+  <br/>
+
+  <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
+
 <summary><h2>📕 Top Projects I've Contributed To</h2></summary>
 <!-- Repo info cards - https://github.com/anuraghazra/github-readme-stats -->
   <!-- Small repo cards (fork) - https://github.com/DenverCoder1/github-readme-stats -->
 
 <p align=centre>
-<a href="https://github.com/ppatil002/Club_Recommendation_System" target="_blank"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ppatil002&repo=Club_Recommendation_System&theme=gruvbox""></a>
-<a href="https://github.com/ppatil002/Text-Editor-DSA1-Mini-Project" target="_blank"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ppatil002&repo=Text-Editor-DSA1-Mini-Project&theme=gruvbox""></a>
-<a href="https://github.com/ppatil002/VR_Connect" target="_blank"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ppatil002&repo=VR_Connect&theme=gruvbox""></a>  
-<a href="https://github.com/ppatil002/ToDoList" target="_blank"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ppatil002&repo=ToDoList&theme=gruvbox""></a>
+<a href="https://github.com/ppatil002/Club_Recommendation_System" target="_blank"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ppatil002&repo=Club_Recommendation_System&theme=gruvbox"></a>
+<a href="https://github.com/ppatil002/Text-Editor-DSA1-Mini-Project" target="_blank"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ppatil002&repo=Text-Editor-DSA1-Mini-Project&theme=gruvbox"></a>
+<a href="https://github.com/ppatil002/VR_Connect" target="_blank"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ppatil002&repo=VR_Connect&theme=gruvbox"></a>  
+<a href="https://github.com/ppatil002/ToDoList" target="_blank"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ppatil002&repo=ToDoList&theme=gruvbox"></a>
 </p>
 
 <!--<details> --> 
