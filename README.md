@@ -53,6 +53,7 @@
       <a href="#"><img alt="Express.js" src="https://img.shields.io/badge/Express.js-404d59.svg?logo=express&logoColor=white"></a>
       <a href="#"><img alt="Flask" src="https://img.shields.io/badge/Flask-000000.svg?logo=flask&logoColor=white"></a>
       <a href="#"><img alt="GitHub Actions" src="https://img.shields.io/badge/GitHub%20Actions-2671E5.svg?logo=github%20actions&logoColor=white"></a>
+      <a href="#"><img alt="JSON" src="https://img.shields.io/badge/JSON-000000.svg?logo=JSON&logoColor=white"></a>
       <a href="#"><img alt="Material Design" src="https://img.shields.io/badge/Material%20Design-0081CB.svg?logo=material-design&logoColor=white"></a>
       <a href="#"><img alt="MUI" src="https://img.shields.io/badge/MUI-007FFF.svg?logo=MUI&logoColor=white"></a>
       <a href="#"><img alt="Matplot" src="https://img.shields.io/badge/Matplotlib-%23ffffff.svg?logo=Matplotlib&logoColor=white"></a>
@@ -62,12 +63,14 @@
       <a href="#"><img alt="React" src="https://img.shields.io/badge/React-20232a.svg?logo=react&logoColor=%2361DAFB"></a>
       <a href="#"><img alt="Scikit Learn" src="https://img.shields.io/badge/scikitlearn-F7931E.svg?logo=scikit-learn&logoColor=white"></a>
       <a href="#"><img alt="TensorFlow" src="https://img.shields.io/badge/TensorFlow-FF6F00.svg?logo=TensorFlow&logoColor=white"></a>
+      <a href="#"><img alt="WEB3.0JS" src="https://img.shields.io/badge/Web3.js-F16822.svg?logo=web3dotjs&logoColor=white"></a>
   </p>
 
   <h3>🗄️ Databases and Cloud Hosting</h3>
 
   <p>
       <a href="#"><img alt="Airflow" src ="https://img.shields.io/badge/Apache%20Airflow-017CEE.svg?logo=Apache-Airflow&logoColor=white"></a>
+      <a href="#"><img alt="Chainlink" src ="https://img.shields.io/badge/Chainlink-375BD2.svg?logo=Chainlink&logoColor=white"></a>
       <a href="#"><img alt="Firebase" src ="https://img.shields.io/badge/Firebase-FFCA28.svg?&logo=Firebase&logoColor=white"></a>
       <a href="#"><img alt="GitHub Pages" src="https://img.shields.io/badge/GitHub%20Pages-327FC7.svg?logo=github&logoColor=white"></a>
       <a href="#"><img alt="Heroku" src="https://img.shields.io/badge/Heroku-430098.svg?logo=heroku&logoColor=white"></a>
@@ -84,6 +87,7 @@
       <a href="#"><img alt="Brave" src="https://img.shields.io/badge/-Brave-FB542B?logo=brave&logoColor=white"></a>
       <a href="#"><img alt="Dbeaver" src="https://custom-icon-badges.demolab.com/badge/-Dbeaver-372923?logo=dbeaver-mono&logoColor=white"></a>
       <a href="#"><img alt="Discord" src="https://img.shields.io/badge/-Discord-5865F2.svg?logo=discord&logoColor=white"></a>
+      <a href="#"><img alt="Etherum" src="https://img.shields.io/badge/Ethereum-3C3C3D.svg?logo=Ethereum&logoColor=white"></a>
       <a href="#"><img alt="Git" src="https://img.shields.io/badge/Git-F05033.svg?logo=git&logoColor=white"></a>
       <a href="#"><img alt="GitHub" src="https://img.shields.io/badge/GitHub-181717.svg?logo=GitHub&logoColor=white"></a>
       <a href="#"><img alt="GitLab" src="https://img.shields.io/badge/GitLab-FC6D26.svg?&logo=GitLab&logoColor=white"></a>
@@ -92,6 +96,7 @@
       <a href="#"><img alt="Gradle" src="https://img.shields.io/badge/Gradle-02303A.svg?logo=Gradle&logoColor=white"></a>
       <a href="#"><img alt="Jupyter" src="https://img.shields.io/badge/Jupyter-F37626.svg?logo=Jupyter&logoColor=white"></a>
       <a href="#"><img alt="Postman" src="https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=white"></a>
+      <a href="#"><img alt="Prometheus" src="https://img.shields.io/badge/Prometheus-E6522C.svg?logo=Prometheus&logoColor=white"></a>
       <a href="#"><img alt="Stack Overflow" src="https://img.shields.io/badge/-Stack%20Overflow-FE7A16?logo=stack-overflow&logoColor=white"></a>
       <a href="#"><img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?logo=visual-studio-code&logoColor=white"></a>
   </p>
