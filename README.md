@@ -69,6 +69,7 @@
   <h3>🗄️ Databases and Cloud Hosting</h3>
 
   <p>
+      <a href="#"><img alt="Amazon AWS" src ="https://img.shields.io/badge/Amazon%20AWS-232F3E.svg?logo=Amazon-AWS&logoColor=white"></a>
       <a href="#"><img alt="Airflow" src ="https://img.shields.io/badge/Apache%20Airflow-017CEE.svg?logo=Apache-Airflow&logoColor=white"></a>
       <a href="#"><img alt="Chainlink" src ="https://img.shields.io/badge/Chainlink-375BD2.svg?logo=Chainlink&logoColor=white"></a>
       <a href="#"><img alt="Firebase" src ="https://img.shields.io/badge/Firebase-FFCA28.svg?&logo=Firebase&logoColor=white"></a>
