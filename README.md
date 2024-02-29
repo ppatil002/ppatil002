@@ -70,6 +70,8 @@
 
   <p>
       <a href="#"><img alt="Amazon AWS" src ="https://img.shields.io/badge/Amazon%20AWS-232F3E.svg?logo=Amazon-AWS&logoColor=white"></a>
+      <a href="#"><img alt="Amazon EC2" src ="https://img.shields.io/badge/Amazon%20EC2-FF9900.svg?logo=Amazon-EC2&logoColor=white"></a>
+      <a href="#"><img alt="Amazon S3" src ="https://img.shields.io/badge/Amazon%20S3-569A31.svg?logo=Amazon-S3&logoColor=white"></a>
       <a href="#"><img alt="Airflow" src ="https://img.shields.io/badge/Apache%20Airflow-017CEE.svg?logo=Apache-Airflow&logoColor=white"></a>
       <a href="#"><img alt="Chainlink" src ="https://img.shields.io/badge/Chainlink-375BD2.svg?logo=Chainlink&logoColor=white"></a>
       <a href="#"><img alt="Firebase" src ="https://img.shields.io/badge/Firebase-FFCA28.svg?&logo=Firebase&logoColor=white"></a>
@@ -85,7 +87,6 @@
   <p>
       <a href="#"><img alt="Android" src="https://img.shields.io/badge/Android-3DDC84?logo=android&logoColor=white"></a>
       <a href="#"><img alt="Android Studio" src="https://img.shields.io/badge/Android%20Studio-008678.svg?logo=android-studio&logoColor=white"></a>
-      <a href="#"><img alt="Brave" src="https://img.shields.io/badge/-Brave-FB542B?logo=brave&logoColor=white"></a>
       <a href="#"><img alt="Dbeaver" src="https://custom-icon-badges.demolab.com/badge/-Dbeaver-372923?logo=dbeaver-mono&logoColor=white"></a>
       <a href="#"><img alt="Discord" src="https://img.shields.io/badge/-Discord-5865F2.svg?logo=discord&logoColor=white"></a>
       <a href="#"><img alt="Etherum" src="https://img.shields.io/badge/Ethereum-3C3C3D.svg?logo=Ethereum&logoColor=white"></a>
