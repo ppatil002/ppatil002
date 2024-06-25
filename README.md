@@ -13,6 +13,7 @@
   <!-- Small repo cards (fork) - https://github.com/DenverCoder1/github-readme-stats -->
 
 <p align=centre>
+<a href="https://github.com/pt3002/HexxCode-SIH-2023" target="_blank"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=pt3002&repo=HexxCode-SIH-2023&theme=gruvbox"></a>
 <a href="https://github.com/ppatil002/Club_Recommendation_System" target="_blank"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ppatil002&repo=Club_Recommendation_System&theme=gruvbox"></a>
 <a href="https://github.com/ppatil002/Text-Editor-DSA1-Mini-Project" target="_blank"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ppatil002&repo=Text-Editor-DSA1-Mini-Project&theme=gruvbox"></a>
 <a href="https://github.com/ppatil002/VR_Connect" target="_blank"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ppatil002&repo=VR_Connect&theme=gruvbox"></a>  
